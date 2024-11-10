@@ -1,0 +1,42 @@
+# Node modules folder
+node_modules/
+
+# Log files
+*.log
+
+# Environment variable files (for security reasons)
+.env
+
+# Dependency directories for package managers
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Build directories (if applicable)
+build/
+dist/
+
+# Temporary files
+tmp/
+
+# Database files (e.g., SQLite or other local DBs)
+*.sqlite
+*.db
+
+# OS specific files
+.DS_Store   # macOS specific file
+Thumbs.db   # Windows specific file
+
+# Editor/IDE specific files (optional, add more as needed)
+.vscode/
+.idea/
+
+# Coverage reports from testing frameworks
+coverage/
+
+# Ignore test result files (optional)
+test-results/
+
+# Ignore other system files
+*.swp      # Vim swap files
+*~         # Emacs backup files
