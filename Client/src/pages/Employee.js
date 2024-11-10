@@ -6,8 +6,6 @@ import CreateEmpModal from '../Components/modals/CreateEmpModal';
 const Employee = () => {
     const [count, setCount] = useState(false);
 
-
-
     const [isModalOpen, setIsModalOpen] = useState(false);
 
     const openModal = () => setIsModalOpen(true);

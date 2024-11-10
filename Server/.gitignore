@@ -40,3 +40,6 @@ test-results/
 # Ignore other system files
 *.swp      # Vim swap files
 *~         # Emacs backup files
+
+
+createAdmin.js
